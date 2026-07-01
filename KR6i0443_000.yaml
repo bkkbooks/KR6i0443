@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0443/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說護淨經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0748.xml
+    old_id: T17n0748
+hash: sha256:e5d28cda3a3638461383e1a33f46741026edc1af9521ca853a801d76902fef72
